@@ -1,0 +1,53 @@
+.maindiv{
+    border:1px solid black;
+    margin:10px;
+    height:95vh
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.payload{
+    text-align: center;
+    margin: 10px;
+}
+.key{
+    margin: 10px;
+    text-align: center;
+}
+.output1{
+    margin: 10px;
+    text-align: center;
+}
+.text {
+    width: 80%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+.output{
+    width: 80%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+  .btn{
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 30px;
+    border:1px solid gray
+  }
+
+  .btn:hover{
+    background-color: darkgrey;
+  }
